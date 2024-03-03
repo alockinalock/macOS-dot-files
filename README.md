@@ -1,2 +1,3 @@
-my dot files for nevoid and Alacritty. stored in .config
+my dot files for neovim and Alacritty. stored in .config
 
+missing my .tmux_conf
